@@ -12,6 +12,7 @@ dependencies:
   - r-tidyverse
   - pip
   - r-caret
+  - r-ellipse
   - pip:
     - pandas
     - matplotlib
